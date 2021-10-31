@@ -30,6 +30,8 @@ The current working version uses the following:
 
 # Running
 
+The *images.zip* file contains the necessary images. They should be unzipped in an images folder alongside the other project folders.
+
 Compile the code. I used Eclipse for developing and maintaning it.
 
 There are two main applications.
